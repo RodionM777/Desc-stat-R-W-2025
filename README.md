@@ -1,3 +1,3 @@
 # Desc-stat-R-W-2025
 
-Markdown file : [markdown_file](Report1.md)
+Markdown file for all 3 pandas exercises : [markdown_file](Combined.md)
