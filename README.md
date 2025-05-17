@@ -7,5 +7,5 @@ Markdowns for Evercises 5 and 6 [DataVisualizationMatplotlib](Exercise5.md)
                                 [DataVisualizationSeaborn](Exercise6.md)
 
 
-Jupyter Notebook for Ecercise 8 [Univariate Analysis](Exercise8.ipynb)
+Markdown for Ecercise 8 [Univariate Analysis](Markdown8.md)
 Wiktor and Rodion
