@@ -8,4 +8,6 @@ Markdowns for Evercises 5 and 6 [DataVisualizationMatplotlib](Exercise5.md)
 
 
 Markdown for Excercise 8 [Univariate Analysis](Markdown8.md)
+
+Markdown for Excercise 9 [Bivariate Analysis](Markdown9.md)
 Wiktor and Rodion
